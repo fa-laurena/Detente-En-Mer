@@ -15,7 +15,7 @@ Project consists of a simple linear regression model training to determine the b
 - <b>Jupiter notebook</b> (21H2)
 
 <h2>USA Housing project walk-through(See files attached):</h2>
- ### [YouTube Demonstration](https://youtu.be/0hQuONLSz08)
+### [YouTube Demonstration](https://youtu.be/0hQuONLSz08)
 <p align="center">
 Importing Libraries : <br/>
 <img src="https://i.imgur.com/IfAIvpo.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
