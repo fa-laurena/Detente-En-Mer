@@ -1,8 +1,7 @@
 <h1> La Detente en Mer - VR GameJam </h1>
 
 <h2>Description</h2>
-This project is a simple execution of a relaxation environment for deep focus and stress releif, using blender and unity.
-<br />
+This project is a simple implementation of a relaxation environment designed for deep focus and stress relief, using Blender and Unity.<br />
 
 
 <h2>Languages and Utilities Used</h2>
