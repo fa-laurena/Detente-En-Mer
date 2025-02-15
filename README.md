@@ -19,7 +19,7 @@ This project is a simple execution of a relaxation environment for deep focus an
 - <b>Unity</b> 
 - <b>Blender</b> (21H2)
 
-<h2>La Detente en Mer project walk-through(See files attached):</h2>
+<h2>La Detente en Mer project walk-through:</h2>
 
  ### [YouTube Demonstration(Experience Showcase)](https://youtu.be/Xeqe_XAE6VM)
 
