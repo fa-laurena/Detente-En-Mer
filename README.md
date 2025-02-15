@@ -1,7 +1,7 @@
-<h1> Titanic - Logistic Regression  </h1>
+<h1> La Detente en Mer - VR GameJam </h1>
 
 <h2>Description</h2>
-Project consists of a simple linear regression model training to determine the best Housing area of the USA States to consider real estate, it include area and estimations data important to i train the model correctly.
+This project is a simple execution of a relaxation environment for deep focus and stress releif, using blender and unity.
 <br />
 
 
@@ -10,9 +10,10 @@ Project consists of a simple linear regression model training to determine the b
 - <b>Python</b> 
 - <b>Jupyter notebook</b>
 
-<h2>Environments Used </h2>
+<h2>Platform Used </h2>
 
-- <b>Jupiter notebook</b> (21H2)
+- <b>Unity</b> 
+- <b>Blender</b> (21H2)
 
 <h2>USA Housing project walk-through(See files attached):</h2>
 
