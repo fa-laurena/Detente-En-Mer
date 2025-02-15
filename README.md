@@ -19,7 +19,7 @@ This project is a simple execution of a relaxation environment for deep focus an
 - <b>Unity</b> 
 - <b>Blender</b> (21H2)
 
-<h2>USA Housing project walk-through(See files attached):</h2>
+<h2>La Detente en Mer project walk-through(See files attached):</h2>
 
  ### [YouTube Demonstration(Experience Showcase)](https://youtu.be/Xeqe_XAE6VM)
 
@@ -44,10 +44,6 @@ Final Set-Up, Audio and Skybox : <br/>
 <img src="https://i.imgur.com/zix07Do.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 
-
- <h2>Summary</h2>
-we can determine from the trainned models ...
-<br />
 
 <!--
  ```diff
