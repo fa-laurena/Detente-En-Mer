@@ -7,8 +7,12 @@ This project is a simple execution of a relaxation environment for deep focus an
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Jupyter notebook</b>
+- <b>Blender - Ocean Modifier</b> 
+- <b>Blender - Floating Object</b>
+- <b>Unity - Timeline</b>
+- <b>Unity - Animation</b>
+- <b>Unity - Audio</b>
+- <b>Skybox</b>
 
 <h2>Platform Used </h2>
 
