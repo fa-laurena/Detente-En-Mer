@@ -25,22 +25,22 @@ This project is a simple implementation of a relaxation environment designed for
  
 <p align="center">
 Blender Set-Up - Ocean Movemnt : <br/>
-<img src="https://i.imgur.com/35Dzic4.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Blender%20ocean.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Blender Set-Up - Animation, Raft and Materiel : <br/>
-<img src="https://i.imgur.com/JbDyQrI.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Blender%20Animation%20and%20Raft.png"80%" alt="Disk Sanitization Steps"/>
 <br />
-Unity Import - Caemra Set-Up, Animation Integration: <br/>
-<img src="https://i.imgur.com/x2DrLKj.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Unity Import - Camera Set-Up, Animation Integration: <br/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Unity%20Import.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Timeline Animation  : <br/>
-<img src="https://i.imgur.com/oJo6DLe.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Unity%20Timeline.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Timeline Animation : <br/>
-<img src="https://i.imgur.com/JLZV2Jk.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Unity%20timeline%20and%20animation%20Raft.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Final Set-Up, Audio and Skybox : <br/>
-<img src="https://i.imgur.com/zix07Do.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Detente-En-Mer/blob/42f41d739f7f4ce63f4d744548ee672419782f0c/Final%20View.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
